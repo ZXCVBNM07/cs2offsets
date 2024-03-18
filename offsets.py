@@ -2,13 +2,11 @@
 Generated using https://github.com/a2x/cs2-dumper
 Sat, 16 Mar 2024 00:42:38 +0000
 '''
-class ActiveModelConfig_t:
+class client_dll: # client.dll
     m_Handle = 0x28 # ModelConfigHandle_t
     m_Name = 0x30 # CUtlSymbolLarge
     m_AssociatedEntities = 0x38 # C_NetworkUtlVectorBase<CHandle<C_BaseModelEntity>>
     m_AssociatedEntityNames = 0x50 # C_NetworkUtlVectorBase<CUtlSymbolLarge>
-
-class client_dll: # client.dll
     dwEntityList = 0x18C2D58
     dwForceAttack = 0x1730020
     dwForceAttack2 = 0x17300B0
