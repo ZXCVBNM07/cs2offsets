@@ -5,14 +5,14 @@ Sat, 16 Mar 2024 00:42:38 +0000
 class client_dll: # client.dll
     dwCSGOInput = 0x192A5B0
     dwEntityList = 0x18C1DB8
-    dwForceAttack = 0x1730020
-    dwForceAttack2 = 0x17300B0
-    dwForceBackward = 0x17302F0
-    dwForceCrouch = 0x17305C0
-    dwForceForward = 0x1730260
-    dwForceJump = 0x1730530
-    dwForceLeft = 0x1730380
-    dwForceRight = 0x1730410
+    dwForceAttack = 0x172F060
+    dwForceAttack2 = 0x172F0F0
+    dwForceBackward = 0x172F330
+    dwForceCrouch = 0x172F600
+    dwForceForward = 0x172F2A0
+    dwForceJump = 0x172F570
+    dwForceLeft = 0x172F3C0
+    dwForceRight = 0x172F450
     dwGameEntitySystem = 0x19DF750
     dwGameEntitySystem_getHighestEntityIndex = 0x1510
     dwGameRules = 0x191EC70
