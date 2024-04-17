@@ -38,7 +38,7 @@ class matchmaking_dll: # matchmaking.dll
     dwGameTypes = 0x1D21E0
     dwGameTypes_mapName = 0x1D2300
 
-class Buttons:
+class buttons:
     dwForceAttack = 0x172F060
     dwForceAttack2 = 0x172F0F0
     dwForceBackward = 0x172F330
