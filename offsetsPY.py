@@ -1,6 +1,5 @@
 '''
 Generated using https://github.com/a2x/cs2-dumper
-Sat, 16 Mar 2024 00:42:38 +0000
 '''
 class client_dll: # client.dll
     dwCSGOInput = 0x192A5E0
