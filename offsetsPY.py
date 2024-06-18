@@ -2,13 +2,13 @@
 Generated using https://github.com/a2x/cs2-dumper
 '''
 class client_dll: # client.dll
-    dwCSGOInput = 0x1A1E1B0
+    dwCSGOInput = 0x1A1E430
     dwEntityList = 0x19B49B8
-    dwGameEntitySystem = 0x1AD38C8
+    dwGameEntitySystem = 0x1AD3888
     dwGameEntitySystem_getHighestEntityIndex = 0x1510
-    dwGameRules = 0x1A12418
-    dwGlobalVars = 0x180E4E0
-    dwGlowManager = 0x1A11B30
+    dwGameRules = 0x1A12408
+    dwGlobalVars = 0x180E510
+    dwGlowManager = 0x1A11B20
     dwLocalPlayerController = 0x1A04768
     dwLocalPlayerPawn = 0x181A998
     dwPlantedC4 = 0x1A1B528
