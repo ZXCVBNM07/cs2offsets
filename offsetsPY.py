@@ -38,13 +38,13 @@ class matchmaking_dll: # matchmaking.dll
     dwGameTypes_mapName = 0x1A42E0
 
 class buttons:
-    dwForceAttack = 0x1813100
-    dwForceAttack2 = 0x1813190
-    dwForceBackward = 0x18133D0
-    dwForceCrouch = 0x18136A0
-    dwForceForward = 0x1813340
-    dwForceJump = 0x1813610
-    dwForceLeft = 0x1813460
-    dwForceRight = 0x18134F0
+    dwForceAttack = 0x1813130
+    dwForceAttack2 = 0x18131C0
+    dwForceBackward = 0x1813400
+    dwForceCrouch = 0x18136D0
+    dwForceForward = 0x1813370
+    dwForceJump = 0x1813640
+    dwForceLeft = 0x1813490
+    dwForceRight = 0x1813520
     
     
