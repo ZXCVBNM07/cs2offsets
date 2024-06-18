@@ -10,14 +10,14 @@ class client_dll: # client.dll
     dwGlobalVars = 0x180E510
     dwGlowManager = 0x1A11B20
     dwLocalPlayerController = 0x1A04768
-    dwLocalPlayerPawn = 0x181A998
-    dwPlantedC4 = 0x1A1B528
-    dwPrediction = 0x181A850
-    dwSensitivity = 0x1A13258
+    dwLocalPlayerPawn = 0x181A9C8
+    dwPlantedC4 = 0x1A1B7A8
+    dwPrediction = 0x181A880
+    dwSensitivity = 0x1A13248
     dwSensitivity_sensitivity = 0x40
-    dwViewAngles = 0x1A235C8
-    dwViewMatrix = 0x1A16A70
-    dwViewRender = 0x1A17388
+    dwViewAngles = 0x1A23848
+    dwViewMatrix = 0x1A16A60
+    dwViewRender = 0x1A17378
     dwWeaponC4 = 0x19B86F0
 
 class engine2_dll: # engine2.dll
