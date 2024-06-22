@@ -7,12 +7,12 @@ class client_dll: # client.dll
     dwGameEntitySystem = 0x1AD3888
     dwGameEntitySystem_getHighestEntityIndex = 0x1510
     dwGameRules = 0x1A12408
-    dwGlobalVars = 0x180E510
+    dwGlobalVars = 0x180E500
     dwGlowManager = 0x1A11B20
     dwLocalPlayerController = 0x1A04768
-    dwLocalPlayerPawn = 0x181A9C8
+    dwLocalPlayerPawn = 0x181A9B8
     dwPlantedC4 = 0x1A1B7A8
-    dwPrediction = 0x181A880
+    dwPrediction = 0x181A870
     dwSensitivity = 0x1A13248
     dwSensitivity_sensitivity = 0x40
     dwViewAngles = 0x1A23848
